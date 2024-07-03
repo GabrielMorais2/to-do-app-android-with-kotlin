@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804101827570",
+    "project_id": "to-do-app-f30ec",
+    "storage_bucket": "to-do-app-f30ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804101827570:android:d9950d49c2c3b0b0c6d96b",
+        "android_client_info": {
+          "package_name": "com.moraes.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFHI8hw2t8uhR_dUE4jz7JneqSG0bECow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
